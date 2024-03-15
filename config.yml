@@ -1,0 +1,6 @@
+development:
+  password: shptka_a55c21743bc0bfe1c318c09320a17ef7
+  theme_id: 155813282097
+  store: bijucha.myshopify.com
+  ignore_files:
+    - settings_data.json
